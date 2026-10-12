@@ -66,8 +66,8 @@ if (form) {
     status.textContent = text;
     if (isError) {
       const link = document.createElement('a');
-      link.href = 'mailto:andreolli.design@gmail.com';
-      link.textContent = 'andreolli.design@gmail.com';
+      link.href = 'mailto:greta@gretaandreolli.it';
+      link.textContent = 'greta@gretaandreolli.it';
       status.append(' ', link);
     }
   }
